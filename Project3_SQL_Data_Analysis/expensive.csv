@@ -1,0 +1,6 @@
+OrderID,Date,CustomerID,Product,Quantity,UnitPrice,ShippingAddress,PaymentMethod,OrderStatus,TrackingNumber,ItemsInCart,CouponCode,ReferralSource,TotalPrice
+ORD200789,17-08-2023,C57276,Tablet,5,691.28,183 Main St,Online,Delivered,TRK75899752,10,SAVE10,Email,3456.4
+ORD201122,07-06-2023,C38840,Monitor,5,678.19,766 Main St,Online,Returned,TRK32496970,8,no coupon,Facebook,3390.95
+ORD200632,02-05-2023,C67260,Laptop,5,678.16,463 Main St,Gift Card,Delivered,TRK38229104,7,WINTER15,Facebook,3390.8
+ORD200469,26-11-2023,C13877,Chair,5,676.98,893 Main St,Cash,Cancelled,TRK17254691,5,no coupon,Facebook,3384.9
+ORD200328,28-02-2023,C18404,Tablet,5,674.04,546 Main St,Online,Cancelled,TRK89401624,7,SAVE10,Google,3370.2
